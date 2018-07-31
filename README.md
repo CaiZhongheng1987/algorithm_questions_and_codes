@@ -7,12 +7,12 @@
 
 代码：https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/tree/master/001
 
-## 002.两数之和
+## leetcode001.两数之和
 说明：给定一个整数数组和一个目标值，找出数组中和为目标值的两个数。你可以假设每个输入只对应一种答案，且同样的元素不能被重复利用。
 
-代码：https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/tree/master/002
+代码：https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode001/test_two_sum.py
 
-## 003.三数之和
+## leetcode015.三数之和
 说明：给定一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组。
 
 注意：答案中不可以包含重复的三元组。
