@@ -25,4 +25,4 @@
   [-1, -1, 2]
 ]
 
-代码：https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/tree/master/003
+代码：https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode015/test_three_sum.py
