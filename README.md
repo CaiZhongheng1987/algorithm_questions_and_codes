@@ -13,7 +13,7 @@
 代码：https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode001/test_two_sum.py
 
 ## leetcode002.两数相加
-给说明：定两个非空链表来表示两个非负整数。位数按照逆序方式存储，它们的每个节点只存储单个数字。将两数相加返回一个新的链表。你可以假设除了数字 0 之外，这两个数字都不会以零开头。
+说明：定两个非空链表来表示两个非负整数。位数按照逆序方式存储，它们的每个节点只存储单个数字。将两数相加返回一个新的链表。你可以假设除了数字 0 之外，这两个数字都不会以零开头。
 
 示例：
 
@@ -22,6 +22,16 @@
 原因：342 + 465 = 807
 
 代码：https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode002/test_Add_Two_Numbers_leetcode.py
+
+## leetcode003.无重复字符的最长子串
+说明：给定一个字符串，找出不含有重复字符的最长子串的长度。
+示例：
+给定 "abcabcbb" ，没有重复字符的最长子串是 "abc" ，那么长度就是3。
+给定 "bbbbb" ，最长的子串就是 "b" ，长度是1。
+给定 "pwwkew" ，最长子串是 "wke" ，长度是3。请注意答案必须是一个子串，"pwke" 是 子序列  而不是子串。
+
+代码：https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode003/test_Longest_Substring_Without_Repeating_Characters.py
+
 
 ## leetcode015.三数之和
 说明：给定一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组。
