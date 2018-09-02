@@ -36,6 +36,29 @@
 
 代码：https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode003/test_Longest_Substring_Without_Repeating_Characters.py
 
+## leetcode004.两个排序数组的中位数
+给定两个大小为 m 和 n 的有序数组 nums1 和 nums2 。
+
+请找出这两个有序数组的中位数。要求算法的时间复杂度为 O(log (m+n)) 。
+
+你可以假设 nums1 和 nums2 不同时为空。
+
+示例 1:
+
+nums1 = [1, 3]
+nums2 = [2]
+
+中位数是 2.0
+示例 2:
+
+nums1 = [1, 2]
+nums2 = [3, 4]
+
+中位数是 (2 + 3)/2 = 2.5
+
+代码：
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode004/test_Median_of_Two_Sorted_Arrays.py
+
 
 ## leetcode015.三数之和
 说明：给定一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组。
