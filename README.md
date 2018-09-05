@@ -59,6 +59,22 @@ nums2 = [3, 4]
 代码：
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode004/test_Median_of_Two_Sorted_Arrays.py
 
+## leetcode005.最长回文子串
+给定一个字符串 s，找到 s 中最长的回文子串。你可以假设 s 的最大长度为1000。
+
+示例 1：
+
+输入: "babad"
+输出: "bab"
+注意: "aba"也是一个有效答案。
+示例 2：
+
+输入: "cbbd"
+输出: "bb"
+
+代码：
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode005/test_Longest_Palindromic_Substring.py
+
 
 ## leetcode015.三数之和
 说明：给定一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组。
