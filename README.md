@@ -112,6 +112,29 @@ P     I
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode006/test_ZigZag_Conversion.py
 
 
+## leetcode007.反转整数
+给定一个 32 位有符号整数，将整数中的数字进行反转。
+
+示例 1:
+
+输入: 123
+输出: 321
+ 示例 2:
+
+输入: -123
+输出: -321
+示例 3:
+
+输入: 120
+输出: 21
+注意:
+
+假设我们的环境只能存储 32 位有符号整数，其数值范围是 [−2^31,  2^31 − 1]。根据这个假设，如果反转后的整数溢出，则返回 0。
+
+代码：
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode007/test_Reverse_Integer.py
+
+
 ## leetcode015.三数之和
 说明：给定一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组。
 
