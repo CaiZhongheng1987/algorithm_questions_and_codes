@@ -79,8 +79,11 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 将字符串 "PAYPALISHIRING" 以Z字形排列成给定的行数：
 
 P   A   H   N
+
 A P L S I I G
+
 Y   I   R
+
 之后从左往右，逐行读取字符："PAHNAPLSIIGYIR"
 
 实现一个将字符串进行指定行数变换的函数:
@@ -97,9 +100,13 @@ string convert(string s, int numRows);
 解释:
 
 P     I    N
+
 A   L S  I G
+
 Y A   H R
+
 P     I
+
 
 代码：
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode006/test_ZigZag_Conversion.py
