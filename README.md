@@ -75,6 +75,35 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 代码：
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode005/test_Longest_Palindromic_Substring.py
 
+# leetcode006.Z字形变换
+将字符串 "PAYPALISHIRING" 以Z字形排列成给定的行数：
+
+P   A   H   N
+A P L S I I G
+Y   I   R
+之后从左往右，逐行读取字符："PAHNAPLSIIGYIR"
+
+实现一个将字符串进行指定行数变换的函数:
+
+string convert(string s, int numRows);
+示例 1:
+
+输入: s = "PAYPALISHIRING", numRows = 3
+输出: "PAHNAPLSIIGYIR"
+示例 2:
+
+输入: s = "PAYPALISHIRING", numRows = 4
+输出: "PINALSIGYAHRPI"
+解释:
+
+P     I    N
+A   L S  I G
+Y A   H R
+P     I
+
+代码：
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode006/test_ZigZag_Conversion.py
+
 
 ## leetcode015.三数之和
 说明：给定一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组。
