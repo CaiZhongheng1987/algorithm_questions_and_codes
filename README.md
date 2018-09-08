@@ -78,11 +78,11 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 ## leetcode006.Z字形变换
 将字符串 "PAYPALISHIRING" 以Z字形排列成给定的行数：
 
-P   A   H   N
+P　　 A   H   N
 
-A P L S I I G
+A　P　L S I I G
 
-Y   I   R
+Y　 　I   R
 
 之后从左往右，逐行读取字符："PAHNAPLSIIGYIR"
 
