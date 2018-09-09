@@ -277,6 +277,22 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 2、动态规划实现
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode010/test_Regular_Expression_Matching_dp.py
 
+## leetcode011.盛最多水的容器
+给定n个非负整数a1，a2，...，an，每个数代表坐标中的一个点(i, ai) 。在坐标内画n条垂直线，垂直线i的两个端点分别为(i, ai)和(i, 0)。找出其中的两条线，使得它们与x轴共同构成的容器可以容纳最多的水。
+
+说明：你不能倾斜容器，且n的值至少为2。
+
+图中垂直线代表输入数组[1, 8, 6, 2, 5, 4, 8, 3, 7]。在此情况下，容器能够容纳水（表示为蓝色部分）的最大值为49。
+
+示例:
+
+输入: [1, 8, 6, 2, 5, 4, 8, 3, 7]
+
+输出: 49
+
+代码：
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode011/test_Container_With_Most_Water.py
+
 ## leetcode015.三数之和
 说明：给定一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组。
 
