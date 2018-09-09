@@ -270,7 +270,10 @@ p = "mis*is*p*."
 输出: false
 
 代码：
+1、递归函数
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode010/test_Regular_Expression_Matching.py
+2、动态规划实现
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode010/test_Regular_Expression_Matching_dp.py
 
 ## leetcode015.三数之和
 说明：给定一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组。
