@@ -386,6 +386,27 @@ C 可以放在 D (500) 和 M (1000) 的左边，来表示 400 和 900。
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode013/test_Roman_to_Integer.py
 
 
+## leetcode014.最长公共前缀
+编写一个函数来查找字符串数组中的最长公共前缀。
+
+如果不存在公共前缀，返回空字符串 ""。
+
+示例 1:
+
+输入: ["flower","flow","flight"]
+输出: "fl"
+示例 2:
+
+输入: ["dog","racecar","car"]
+输出: ""
+解释: 输入不存在公共前缀。
+说明:
+
+所有输入只包含小写字母 a-z 。
+
+代码：
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode014/test_Longest_Common_Prefix.py
+
 ## leetcode015.三数之和
 说明：给定一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组。
 
