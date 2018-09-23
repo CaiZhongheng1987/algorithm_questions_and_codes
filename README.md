@@ -525,3 +525,15 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 代码：
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode020/test_Valid_Parentheses.py
+
+## leetcode021.合并两个有序链表
+将两个有序链表合并为一个新的有序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。
+
+示例：
+
+输入：1->2->4, 1->3->4
+
+输出：1->1->2->3->4->4
+
+代码：
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode021/test_Merge_Two_Sorted_Lists.py
