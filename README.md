@@ -553,3 +553,23 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 代码：
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode022/test_Generate_Parentheses.py
+
+## leetcode023.合并K个排序链表
+合并 k 个排序链表，返回合并后的排序链表。请分析和描述算法的复杂度。
+
+示例:
+
+输入:
+[
+  1->4->5,
+  
+  1->3->4,
+  
+  2->6
+]
+
+输出: 1->1->2->3->4->4->5->6
+
+代码：
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode023/test_Merge_k_Sorted_Lists.py
+
