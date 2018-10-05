@@ -864,3 +864,7 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 代码：
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode035/test_Search_Insert_Position.py
+
+## leetcode036.有效的数独
+代码：
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode036/test_Valid_Sudoku.py
