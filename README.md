@@ -868,3 +868,7 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 ## leetcode036.有效的数独
 代码：
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode036/test_Valid_Sudoku.py
+
+## leetcode037.解数独
+代码：
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode037/test_Sudoku_Solver_3.py
