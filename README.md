@@ -875,3 +875,6 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 ## leetcode038.报数
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode038/test_Count_and_Say.py
+
+## leetcode039.组合总和
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode039/test_Combination_Sum.py
