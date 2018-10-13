@@ -878,3 +878,6 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 ## leetcode039.组合总和
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode039/test_Combination_Sum.py
+
+## leetcode040.组合总和II
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode040/test_Combination_Sum_II.py
