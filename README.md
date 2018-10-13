@@ -872,3 +872,6 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 ## leetcode037.解数独
 代码：
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode037/test_Sudoku_Solver_3.py
+
+## leetcode038.报数
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode038/test_Count_and_Say.py
