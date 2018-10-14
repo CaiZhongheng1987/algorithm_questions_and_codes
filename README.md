@@ -884,3 +884,6 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 ## leetcode041.缺失的第一个正数
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode041/test_First_Missing_Positive.py
+
+## leetcode042.接雨水
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode042/test_Trapping_Rain_Water.py
