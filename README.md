@@ -887,3 +887,6 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 ## leetcode042.接雨水
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode042/test_Trapping_Rain_Water.py
+
+## leetcode043.字符串相乘
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode043/test_Multiply_Strings.py
