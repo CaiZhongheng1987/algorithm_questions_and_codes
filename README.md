@@ -881,3 +881,6 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 ## leetcode040.组合总和II
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode040/test_Combination_Sum_II.py
+
+## leetcode041.缺失的第一个正数
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode041/test_First_Missing_Positive.py
