@@ -890,3 +890,13 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 ## leetcode043.字符串相乘
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode043/test_Multiply_Strings.py
+
+## leetcode044.通配符匹配
+
+动态规划解法：
+
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode044/test_Wildcard_Matching.py
+
+双指针解法：
+
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode044/test_Wildcard_Matching2.py
