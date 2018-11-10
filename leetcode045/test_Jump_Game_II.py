@@ -37,7 +37,7 @@ class Solution:
                 step_num += 1
                 break
             # 在这个范围内计算每个idx下一步可以走的最远的范围
-            for tmp_idx in range(idx+1, min(nums[idx]+idx+1, len_nums)):
+            for tmp_idx in range(idx+1, nums[idx]+idx+1):
                 # 计算范围内每个idx最远可以走到多远，并找到当中走得最远的idx，记录下来
                 tmp_distance = nums[tmp_idx]+tmp_idx
                 if tmp_distance > local_max_distance:
