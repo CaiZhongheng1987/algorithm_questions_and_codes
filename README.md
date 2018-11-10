@@ -900,3 +900,7 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 双指针解法：
 
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode044/test_Wildcard_Matching2.py
+
+## leetcode045.跳跃游戏II
+
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode045/test_Jump_Game_II.py
