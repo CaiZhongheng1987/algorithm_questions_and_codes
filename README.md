@@ -904,3 +904,7 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 ## leetcode045.跳跃游戏II
 
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode045/test_Jump_Game_II.py
+
+## leetcode046.全排列
+
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode046/test_Permutations.py
