@@ -908,3 +908,8 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 ## leetcode046.全排列
 
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode046/test_Permutations.py
+
+## leetcode047.全排列II
+
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode047/test_Permutations_II.py
+
