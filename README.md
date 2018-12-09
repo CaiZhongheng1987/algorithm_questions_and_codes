@@ -920,3 +920,7 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 ## leetcode049.字母异位词分组
 
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode049/test_Group_Anagrams_2.py
+
+## leetcode050.Pow(x, n)
+
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode050/test_Pow(x%2C%20n).py
