@@ -17,7 +17,6 @@
 #
 # -100.0 < x < 100.0
 # n 是 32 位有符号整数，其数值范围是 [−231, 231 − 1] 。
-import math
 
 
 class Solution:
@@ -37,19 +36,20 @@ class Solution:
 
         tmp_n = abs(n)
         pow_out = 1
-
         while tmp_n >= 1:
             # 计算当前的数为2的多少次幂
-            tmp_val = math.floor(math.log(tmp_n, 2))
+            divide_num = tmp_n
+            shift_num = 0
             tmp_pow_out = x
-            # 用淘汰赛的方式计算这一轮的结果
-            for _ in range(0, tmp_val):
+            while divide_num > 1:
+                divide_num //= 2
+                shift_num += 1
                 tmp_pow_out *= tmp_pow_out
 
             # 将这一轮的结果乘到最终结果上
             pow_out *= tmp_pow_out
             # 更新tmp_n
-            tmp_n -= 2**tmp_val
+            tmp_n -= 1 << shift_num
 
         if n < 0:
             # 处理负数幂的情况
@@ -58,8 +58,8 @@ class Solution:
         return pow_out
 
 
-input_x = 3.2
-input_n = -3
+input_x = 1.2
+input_n = 8
 
 my_test = Solution()
 my_out = my_test.myPow(input_x, input_n)
