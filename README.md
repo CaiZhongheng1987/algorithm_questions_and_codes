@@ -925,6 +925,11 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode050/test_Pow(x%2C%20n).py
 
+## leetcode051.N皇后
+
+第一种解答，耗时较长，无法通过leetcode的测试
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode051/test_N_queens_I.py
+
 
 ## leetcode053.最大子序和
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode053/test_Maximum_Subarray.py
