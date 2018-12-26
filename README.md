@@ -936,3 +936,6 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 ## leetcode054.螺旋矩阵
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode054/test_Spiral_Matrix.py
+
+## leetcode055.跳跃游戏
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode055/test_Jump_Game_new.py
