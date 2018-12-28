@@ -933,6 +933,10 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 第二种解答，优化了格子能否放下皇后的判断方式，提升了速度
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode051/test_N_queens_II.py
 
+## leetcode052.N皇后II
+
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode052/test_N_queens_II.py
+
 ## leetcode053.最大子序和
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode053/test_Maximum_Subarray.py
 
