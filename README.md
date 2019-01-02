@@ -945,3 +945,6 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 ## leetcode055.跳跃游戏
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode055/test_Jump_Game_new.py
+
+## leetcode056.合并区间
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode056/test_Merge_Intervals.py
