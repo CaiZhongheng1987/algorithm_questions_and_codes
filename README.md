@@ -955,7 +955,8 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 ## leetcode058.最后一个单词的长度
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode058/test_Length_of_Last_Word.py
 
-## leetcode058.螺旋矩阵II
+## leetcode059.螺旋矩阵II
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode059/test_Spiral_Matrix_II.py
 
-
+## leetcode060.第k个排列
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode060/test_Permutation_Sequence.py
