@@ -961,5 +961,5 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 ## leetcode060.第k个排列
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode060/test_Permutation_Sequence.py
 
-## leetcode0601.旋转链表
+## leetcode061.旋转链表
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode061/test_Rotate_List.py
