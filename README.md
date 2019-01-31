@@ -963,3 +963,6 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 ## leetcode061.旋转链表
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode061/test_Rotate_List.py
+
+## leetcode062.不同路径
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode062/test_Unique_Paths.py
