@@ -969,3 +969,6 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 ## leetcode063.不同路径II
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode063/test_Unique_Paths_II.py
+
+## leetcode064.最小路径和
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode064/test_Minimum_Path_Sum.py
