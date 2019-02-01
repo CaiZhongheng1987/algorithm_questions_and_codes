@@ -972,3 +972,6 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 ## leetcode064.最小路径和
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode064/test_Minimum_Path_Sum.py
+
+## leetcode070.爬楼梯
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode070/test_Climbing_Stairs.py
