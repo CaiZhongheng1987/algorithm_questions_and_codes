@@ -978,3 +978,6 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 
 ## leetcode403.青蛙跳河
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode403/test_Frog_Jump.py
+
+## leetcode980.不同路径III
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode980/test_Unique_Paths_III.py
