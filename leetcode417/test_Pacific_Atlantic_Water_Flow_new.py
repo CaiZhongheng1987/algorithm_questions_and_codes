@@ -69,7 +69,7 @@ class Solution:
             # 遍历上下左右，让水流逆流而上
             new_row = row_num+x
             new_col = col_num+y
-            # 找到可以顺流而上的条件，在格子内，周边格子高度比当前高，且周边格子还没走过
+            # 找到可以逆流而上的条件，在格子内，周边格子高度比当前高，且周边格子还没走过
             if 0 <= new_row < m and 0 <= new_col < n and matrix[new_row][new_col] >= matrix[row_num][col_num] \
                     and visited_matrix[new_row][new_col] is False:
                 self.dfs_search(new_row, new_col, visited_matrix, step, m, n, matrix)
