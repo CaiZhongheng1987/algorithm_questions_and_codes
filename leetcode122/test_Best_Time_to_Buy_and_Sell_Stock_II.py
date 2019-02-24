@@ -38,9 +38,7 @@ class Solution:
         cur_profit = 0
         buy_idx = 0  # 0: buy, 1: sell
         for idx in range(len_prices-2):
-            if prices[idx+1] >= prices[idx]:
-                continue
-            else:
+            if prices[idx+1] < prices[idx]:
                 # 卖出
                 cur_profit += prices[idx]-prices[buy_idx]
                 # 下一次买入
