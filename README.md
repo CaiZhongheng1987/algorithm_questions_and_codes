@@ -976,6 +976,9 @@ https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/le
 ## leetcode070.爬楼梯
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode070/test_Climbing_Stairs.py
 
+## leetcode121.买卖股票的最佳时机
+https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode121/test_Best_Time_to_Buy_and_Sell_Stock.py
+
 ## leetcode122.买卖股票的最佳时机II
 https://github.com/CaiZhongheng1987/algorithm_questions_and_codes/blob/master/leetcode122/test_Best_Time_to_Buy_and_Sell_Stock_II.py
 
